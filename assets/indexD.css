@@ -1,0 +1,35 @@
+* {
+    margin:0;
+    padding:0;
+    }
+body{
+    margin:0;
+    background-image: url(./images/photo-1489844097929-c8d5b91c456e.jpg);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    
+}
+
+
+
+.HeadAM {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:40px;
+} 
+
+.container {
+
+    padding-top: 100px;
+}
+
+
+.footer {
+    text-align: center;
+    background-color: black;
+}
+
+
+#profile-body{
+    background: blue;
+}

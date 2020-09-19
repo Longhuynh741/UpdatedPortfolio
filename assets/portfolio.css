@@ -1,0 +1,18 @@
+body{
+    background-image: url(./images/photo-1489844097929-c8d5b91c456e.jpg);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+.title {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.HeadAM {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+} 
+

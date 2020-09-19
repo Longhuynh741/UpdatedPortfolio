@@ -1,0 +1,26 @@
+body{
+    background-image: url(./images/photo-1489844097929-c8d5b91c456e.jpg);
+    background-size: cover;
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+.container {
+    margin-top: 200px;
+} 
+
+.HeadAM {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+} 
+
+
+.fa-linkedin-square {
+    font-size:48px;color:blue
+}
+
+.fa-github {
+    font-size:48px;color:black
+}
+
